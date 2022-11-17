@@ -1,6 +1,11 @@
 {
   "name": "contacts-service",
   "version": "0.0.0",
+  "repositort": {
+    "type":"git",
+    "url": "https://github.com/Josearrr4/contacts-service.git"
+  },
+  "homepage": "https://github.com/Josearrr4/contacts-service",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
